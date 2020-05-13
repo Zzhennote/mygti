@@ -32,7 +32,7 @@ int，short int,long int, unsigned int, unsigned short int,unsigned long int    
 //c语言int的取值范围在于他占用的字节数 ，不同的编译器，规定是不一样。
 //ANSI标准定义int是占2个字节，TC是按ANSI标准的，它的int是占2个字节的。但是在VC里，一个int是占4个字节的。
 float，double   //字符型（浮点型）
-  
+//C语言中不存在字符串变量，字符串只能存在字符数组中  
 
 
 
